@@ -8,22 +8,15 @@ $base-font-size: 22px;
 
 body {
 	font-family: "Roboto", sans-serif;
-	font-family: "Ruda", sans-serif;
+	font-family: "Abyssinica SIL", serif;
+	font-family: "Lao MN", serif;
 	font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-	background-color: rgba(36, 36, 39, 1);
-	position: relative;
-
-	@include ph {
-		background-color: black;
-	}
+  
 	
 	
 }
 .container{
-	position: relative;
-max-width: 1240px;
+max-width: 995px;
 width: 100%;
 padding: 0 15px;
 margin: 0 auto;
