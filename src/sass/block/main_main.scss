@@ -1,37 +1,68 @@
-.main
-{   position: relative;
-    top: 1212px;
-    left: 304px;
+.contain{
+    position: relative;
     display: block;
-    height: 493px;
-    width: 716px;
-    
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+    height: 390px;
+    max-width: 991px;
+    background-color: rgb(227, 223, 223);
 }
-.img1{
+.contain h2{
     position: absolute;
-    top: 2px;
-    left: 9px;
-    width: 310px;
-    height: 224px;
+    width: 155px;
+height: 23px;
+top: 30px;
+left: 86px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 21px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(1, 60, 211, 1);
+
 }
-.img2{
-    position: absolute;
-    top: 2px;
-    left: 401px;
-    width: 310px;
-    height: 224px;
+.clock_lane_contain{
+position: absolute;
+    top: 115px;
+    left: 0px;
+    width: 1020px;
+    height: 0.5px;
+    background-color: rgba(0, 0, 0, .5);
 }
-.img3{
+.clock_lane_contain_outline1{
     position: absolute;
-    top: 266px;
-    left: 9px;
-    width: 310px;
-    height: 224px;
+    top: 114px;
+        left: 86px;
+    width: 37px;
+
+    height: 2px;
+    background: rgba(208, 0, 0, 1)
 }
-.img4{
+.clock_lane_contain_outline2{
     position: absolute;
-    top: 266px;
-    left: 401px;
-    width: 310px;
-    height: 224px;
+    top: 114px;
+        left: 336px;
+    width: 42px;
+
+    height: 2px;
+    background: rgba(208, 0, 0, 1)
+}
+.clock_lane_contain_outline3{
+    position: absolute;
+    top: 114px;
+        left: 586px;
+    width: 44px;
+
+    height: 2px;
+    background: rgba(208, 0, 0, 1)
+}
+.clock_lane_contain_outline4{
+    position: absolute;
+    top: 114px;
+        left: 835px;
+    width: 44px;
+
+    height: 2px;
+    background: rgba(208, 0, 0, 1)
 }
