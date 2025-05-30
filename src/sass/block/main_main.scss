@@ -66,3 +66,122 @@ position: absolute;
     height: 2px;
     background: rgba(208, 0, 0, 1)
 }
+.contain_elemnts_blocks{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+   width: 937px;
+    height: 100px;
+    left: 66px;
+    top: 127px;
+}
+.O1{
+   display: block;
+    position: relative;
+    width: 205px;
+    height: 225px;
+}
+.O2{
+   display: block;
+    position: relative;
+    width: 205px;
+    height: 225px;
+}
+.O3{
+   display: block;
+    position: relative;
+    width: 205px;
+    height: 225px;
+}
+.O4{
+   display: block;
+    position: relative;
+    width: 205px;
+    height: 225px;
+}
+.O1 h3{
+    position: absolute;
+    width: 40px;
+height: 35px;
+top: -32px;
+    left: 4px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 38px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(208, 0, 0, 1);
+}
+.O2 h3{
+    position: absolute;
+    width: 45px;
+height: 34px;
+top: -26px;
+    left: 10px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 38px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(208, 0, 0, 1);
+
+
+}
+.O3 h3{
+    position: absolute;
+    width: 45px;
+height: 34px;
+top: -26px;
+    left: 16px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 38px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(208, 0, 0, 1);
+
+
+}
+.O4 h3{
+    position: absolute;
+    width: 45px;
+height: 34px;
+top: -26px;
+    left: 22px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 38px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(208, 0, 0, 1);
+
+
+}
+.O1_title_1{
+    position: absolute;
+    width: 152px;
+height: 15px;
+top: 46px;
+left: 4px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 14.1px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+
+}
+.O1_title_2{
+    position: absolute;
+    width: 130px;
+height: 15px;
+top: 46px;
+left: 10px;
+font-family: "Roboto",sans-serif;
+font-weight: 700;
+font-size: 14.1px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+
+}
