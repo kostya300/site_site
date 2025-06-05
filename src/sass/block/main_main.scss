@@ -1368,7 +1368,7 @@ color: rgba(0, 0, 0, 0.5);
     position: relative;
         width: 84px;
     height: 13px;
-    top: -67px;
+    top: -42px;
     left: 90px;
 font-family: "Roboto";
 font-weight: 500;
@@ -1385,4 +1385,120 @@ position: absolute;
     left: 543px;
     border-width: 1px;
     border-bottom: 2px solid rgba(0, 0, 0, .6);
+}
+.inner_block_cont4_1 p:nth-child(3){
+    position: absolute;
+   width: 195px;
+    height: 33px;
+    top: 13px;
+    left: 5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 15px;
+line-height: 106%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+
+}
+.inner_block_cont4_2 p:nth-child(3){
+    position: absolute;
+   width: 195px;
+    height: 33px;
+    top: 13px;
+    left: 240px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 15px;
+line-height: 106%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+
+}
+.inner_block_cont4_4 p:nth-child(3){
+    position: absolute;
+   width: 195px;
+    height: 33px;
+    top: 108px;
+    left: 5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 15px;
+line-height: 113%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+
+}
+.inner_block_cont4_5 p:nth-child(2){
+    position: absolute;
+   width: 195px;
+    height: 33px;
+    top: 108px;
+    left: 240px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+font-size: 15px;
+line-height: 113%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+
+}
+.contain5{
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+    height: 210px;
+    max-width: 991px;
+   background: rgba(147, 147, 147, 1);
+
+
+}
+.links_block5_list{
+    position: absolute;
+    left: 114px;
+    top: 25px;
+    width: 115px;
+    height: 116px;
+  display: grid; 
+  grid-template-columns: 1fr; 
+  grid-template-rows: 1fr 1fr 1fr 1fr; 
+  gap: 0px 0px; 
+  grid-template-areas:
+    "."
+    "."
+    "."
+    "."; 
+}
+.links_block5_list a{
+    font-family: "Roboto",sans-serif;
+font-weight: 500;
+font-size: 12px;
+line-height: 97%;
+letter-spacing: 0%;
+text-decoration: none;
+color: rgba(255, 255, 255, 1);
+
+}
+.data_footer p{
+    position: absolute;
+   left: 114px;
+    top: 149px;
+    font-family: "Roboto",sans-serif;
+font-weight: 500;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(255, 255, 255, 1);
+}
+.footer_adress p{
+    position: absolute;
+   left: 114px;
+    top: 167px;
+    font-family: "Roboto",sans-serif;
+font-weight: 500;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(255, 255, 255, 1);
 }
